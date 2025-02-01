@@ -1,0 +1,12 @@
+Package: BarrierOptionPricer
+Type: Package
+Title: Pricing Barrier Options European up and out
+Version: 0.1.0
+Author: Viktor Sas
+Maintainer: Viktor Sas <viktor.sas@yahoo.com>
+Description: European up and out
+License: GPL-3
+Imports: Rcpp (>= 1.0.7)
+LinkingTo: Rcpp
+Encoding: UTF-8
+RoxygenNote: 7.3.1
